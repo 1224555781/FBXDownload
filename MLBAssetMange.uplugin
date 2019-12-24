@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MLBAssetMange",
+	"Description": "Create a asset mange plugin",
+	"Category": "Other",
+	"CreatedBy": "JW",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MLBAssetMange",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
